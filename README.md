@@ -4,7 +4,7 @@ https://docs.google.com/document/d/1aDFtIqj0ImLlCVGtdiVkDdQSPY7vq31HUI1zIPOoJHs/
 ---------------------------------------------------------------------------------------------------------
 Nuestro proyecto de TFG del ciclo de Sistemas Microinformáticos y Redes consiste en el desarrollo de un entorno automatizado para la configuración de la red de una empresa utilizando exclusivamente soluciones de código abierto.
 
-El objetivo principal es crear un script que, mediante Ansible, permita desplegar y configurar todos los servicios necesarios desde una máquina anfitriona (MAQ SERVER), asegurando una infraestructura funcional y escalable.
+El objetivo principal es crear un script que, mediante Ansible, permita desplegar y configurar todos los servicios necesarios desde una máquina a un servidor para que distribuya los diversos servicios, asegurando una infraestructura funcional y escalable.
 
 Los servicios y configuraciones que se implementarán son los siguientes:
 
